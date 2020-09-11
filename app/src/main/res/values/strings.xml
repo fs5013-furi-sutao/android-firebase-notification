@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="title_main_activity">Firebase Notifications</string>
+    <string name="default_notification_channel_id" translatable="false">my_app_fcm_default_channel</string>
+    <string name="push_title">件名: </string>
+    <string name="title_push_message">受信メッセージ本文: </string>
+    <string name="msg_subscribed">「NEWS」トピックを通知設定しました</string>
+    <string name="msg_subscribe_failed">「NEWS」トピックへの通知設定に失敗しました</string>
+    <string name="subscribe_to_weather">「NEWS」トピックを通知設定する</string>
+    <string name="title_reg_id">Firebase reg id:</string>
+</resources>
