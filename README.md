@@ -8,3 +8,5 @@ Firebase を扱うコードが分からない場合は、Firebase の公式ド�
 
 Firebase Cloud Messaging Quickstart - GitHub  
 https://github.com/firebase/quickstart-android/tree/master/messaging
+
+![Android アプリのホーム画面](./android_fcm_notification.png)  
